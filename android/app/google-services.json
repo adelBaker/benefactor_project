@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "909386276354",
+    "project_id": "my-first-project-udemy-139a7",
+    "storage_bucket": "my-first-project-udemy-139a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909386276354:android:a9f69ec89a64c4039f911b",
+        "android_client_info": {
+          "package_name": "com.example.charity_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909386276354-2eckcgv332fg7356b69um5ebl7un70t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjaACEWgSidGvO30YZMWlzdLt7-ffPQTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909386276354-2eckcgv332fg7356b69um5ebl7un70t5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909386276354-c96bo1013up384650b5b196a63tof15l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.benefactorproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909386276354:android:dad080ffce3c0a999f911b",
+        "android_client_info": {
+          "package_name": "com.example.fire_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909386276354-2eckcgv332fg7356b69um5ebl7un70t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjaACEWgSidGvO30YZMWlzdLt7-ffPQTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909386276354-2eckcgv332fg7356b69um5ebl7un70t5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909386276354-c96bo1013up384650b5b196a63tof15l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.benefactorproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909386276354:android:91d993c0743df19a9f911b",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909386276354-enc9db26oi0tonojofo23adpgdqvkcel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.first",
+            "certificate_hash": "86e417092d3d3d6989cc601dbbe5164551455245"
+          }
+        },
+        {
+          "client_id": "909386276354-2eckcgv332fg7356b69um5ebl7un70t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjaACEWgSidGvO30YZMWlzdLt7-ffPQTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909386276354-2eckcgv332fg7356b69um5ebl7un70t5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909386276354-c96bo1013up384650b5b196a63tof15l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.benefactorproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909386276354:android:723c50009301c1539f911b",
+        "android_client_info": {
+          "package_name": "com.example.semester_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909386276354-2eckcgv332fg7356b69um5ebl7un70t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjaACEWgSidGvO30YZMWlzdLt7-ffPQTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909386276354-2eckcgv332fg7356b69um5ebl7un70t5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909386276354-c96bo1013up384650b5b196a63tof15l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.benefactorproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
